@@ -7,7 +7,7 @@ Funcionamento da Calculadora Python:
     - Soma: num1 + num2
     - Subtração: num1 - num2
     - Multiplicação: num1 * num2
-     - Se num=2 é diferente de 0, então:
+     - Se num2 é diferente de 0, então:
         - Divisão: num1 / num2
         -  Divisão inteira: num1 // num2
         -  Resto da divisão inteira: num1 % num2
