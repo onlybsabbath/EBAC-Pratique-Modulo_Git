@@ -1,4 +1,4 @@
-Uma Calculadora Python que executa as quatro operações algébricas elementares, além da divisão inteira, resto da divisão inteira e exponenciação.
+Uma Calculadora Python que executa as quatro operações aritméticas elementares, além da divisão inteira, resto da divisão inteira e exponenciação.
 
 Funcionamento da Calculadora Python:
   - Inserir o primeiro número (num1)
